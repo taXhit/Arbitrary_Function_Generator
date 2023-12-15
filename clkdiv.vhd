@@ -1,3 +1,4 @@
+-- the variable clock divider is used to ensure that the AFG works at the desired frequency.
 
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
