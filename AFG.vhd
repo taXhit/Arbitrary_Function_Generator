@@ -1,4 +1,4 @@
-
+-- integrates all the different components together
 
 library work;
 use work.pkg.all;
