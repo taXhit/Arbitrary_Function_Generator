@@ -1,3 +1,5 @@
+#generates the GUI to select the parameters and based on the inputs, it generates a corresponding lookup table.
+
 import serial
 import tkinter as tk
 
