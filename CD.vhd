@@ -1,3 +1,5 @@
+-- clock divider used to ensure baud rate of 9600 Hz (the rate at which the UART is transmitting data)
+
 library ieee;
 use ieee.std_logic_1164.all;
 entity CD is
