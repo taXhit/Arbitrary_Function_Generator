@@ -1,3 +1,5 @@
+-- storing the converted bytes into an array to attain the lookup table and the last 4 bytes representing the frequency are converted to an integer.
+
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
