@@ -1,4 +1,4 @@
--- integrates all the different components together
+-- integrates all the different components together and loops through the lookup table to generate the desired waveform.
 
 library work;
 use work.pkg.all;
