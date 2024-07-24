@@ -6,7 +6,7 @@
 - [Acknowledgment](#acknowledgment)
 
 ## Introduction
-This project is an Arbitrary Function Generator implemented on an FPGA board using VHDL. It allows users to generate 4 different waveforms - sine, ramp, triangular and square. It has an option to vary the frequency and amplitude of the wave.
+This project is an Arbitrary Function Generator implemented on an FPGA board using VHDL. It allows users to generate 4 different waveforms - sine, ramp, triangular and square. It has an option to vary the frequency, voltage offset and amplitude of the wave.
 
 ## Features
 - **Waveform Generation:** Generate any of the 4 waveforms - sine, square, triangle & ramp.
