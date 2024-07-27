@@ -14,7 +14,6 @@ component CD is
 	port (
 clk_50M,reset:in std_logic;
 clk_out1:buffer Std_logic
---clk_out2:buffer std_logic
 ) ;
 end component;
 signal sampler:integer range 0 to 1:=0;
