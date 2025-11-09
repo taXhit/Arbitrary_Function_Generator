@@ -16,4 +16,3 @@ This project is an Arbitrary Function Generator implemented on an FPGA board usi
 
 ## Acknowledgement
 This project was made by: Takshit, Navaneeth, Gowshik and Medhansh.
-It was pursued as an informal project to improve our learning of VHDL.
